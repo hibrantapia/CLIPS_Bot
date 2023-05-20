@@ -13,7 +13,7 @@ This chatbot recommends based on simple questions what kind of anime you might l
 
 <h2 align="left">Recipe</h2>
 
-1. In this simple GitHub Repository, I uploaded 1 file "Chatbot_Anime.clp", containing the resource code of our chatbot.
+1. In this simple GitHub Repository, I uploaded 1 file "Chatbot_Anime.clp", containing the source code of our chatbot.
 2. You don't need anything special to run the program.
 
 <h2 align="left">Extra Stuff</h3>
