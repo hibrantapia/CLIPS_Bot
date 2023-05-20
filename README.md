@@ -7,10 +7,11 @@
 
 This is a simple chatbot using the C Language Integrated Production System (CLIPS) programming language, developed at NASA’s Johnson Space Center.
 CLIPS is useful for creating expert systems and other programs where a heuristic solution is easier to implement and maintain than an algorithmic solution.
+This chatbot recommends based on simple questions what kind of anime you might like.
 
 <h2 align="left">Recipe</h2>
 
-1. In this simple GitHub Repository, I uploaded 1 file "Nim_Game.py", containing the resource code of our game.
+1. In this simple GitHub Repository, I uploaded 1 file "Chatbot_Anime.clp", containing the resource code of our game.
 2. You don't need anything special to run the program.
 
 <h2 align="left">Extra Stuff</h3>
