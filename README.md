@@ -3,7 +3,7 @@
 #### Colaborative College Project - Make sure to check out the authors.
 
 
-<p align="center"> <img src = "/Nim_Game_UI.png" width = 400> </p>
+<p align="center"> <img src = "/CLIPS_Bot.png" width = 400> </p>
 
 This is a simple chatbot using the C Language Integrated Production System (CLIPS) programming language, developed at NASA’s Johnson Space Center.
 
