@@ -5,7 +5,8 @@
 
 <p align="center"> <img src = "/Nim_Game_UI.png" width = 400> </p>
 
-In this game, any number of asterisks must be removed from a row, but only one row per turn. The player removes the last asterisk loses. You will play against an intelligent agent.
+This is a simple chatbot using the C Language Integrated Production System (CLIPS) programming language, developed at NASA’s Johnson Space Center.
+CLIPS is useful for creating expert systems and other programs where a heuristic solution is easier to implement and maintain than an algorithmic solution.
 
 <h2 align="left">Recipe</h2>
 
