@@ -5,8 +5,10 @@
 
 <p align="center"> <img src = "/Nim_Game_UI.png" width = 400> </p>
 
-This is a simple chatbot using the C Language Integrated Production System (CLIPS) programming language, developed at NASA’s Johnson Space Center. //
-CLIPS is useful for creating expert systems and other programs where a heuristic solution is easier to implement and maintain than an algorithmic solution. //
+This is a simple chatbot using the C Language Integrated Production System (CLIPS) programming language, developed at NASA’s Johnson Space Center.
+
+CLIPS is useful for creating expert systems and other programs where a heuristic solution is easier to implement and maintain than an algorithmic solution. 
+
 This chatbot recommends based on simple questions what kind of anime you might like.
 
 <h2 align="left">Recipe</h2>
